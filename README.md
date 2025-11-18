@@ -105,4 +105,4 @@ Each page contains navigation buttons for seamless movement across the dashboard
 
 ---
 
-![Image Alt](
+![Image Alt](https://github.com/Seenivaasan-J/PowerBI-Dashboard/blob/e1c3e38b68f0548b78f610043fadc966b90a8a75/PowerBI%20Dashboard.png)
